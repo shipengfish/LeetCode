@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/admin/src/components/AddressBox/index.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/admin/src/views/modules/purchase/PurchaseDeliveryOrderEdit.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/admin/src/views/modules/purchase/common/LogisticsInfo.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leet-code/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leet-code/src/main/java/linkedlist/$206_ReverseLinkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/home/finance-service/finance-admin-business/src/main/java/com/wozaijia/finance/admin/business/job/EkbRefreshTokenJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/home/finance-service/finance-admin-business/src/main/java/com/wozaijia/finance/admin/business/service/LogAspect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/home/finance-service/finance-service-manager/src/main/java/com/wozaijia/finance/mgr/client/EkbClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/home/finance-service/finance-service-manager/src/main/java/com/wozaijia/finance/mgr/manager/FinanceSkuDynamicCostManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/home/notify-service/starter-notify-service/src/main/java/com/wozaijia/starter/notify/dto/enums/LogMessageErrorType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/home/ops-repo/test-merge.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/home/pms-service/pms-admin-business/src/main/java/com/wozaijia/pms/admin/business/service/PurchaseDeliveryOrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/home/pms-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/home/wms-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/home/wms-service/starter-wms-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/home/wms-service/starter-wms-service/src/main/java/com/wozaijia/starter/wms/enums/WarehouseType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/home/wms-service/wms-admin-business/src/main/java/com/wozaijia/wms/admin/business/service/InternalWarehouseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
